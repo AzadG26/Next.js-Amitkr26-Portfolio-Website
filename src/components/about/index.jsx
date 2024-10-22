@@ -84,7 +84,7 @@ const AboutDetails = () => {
 
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Link
-            href="amitkr26.rf.gd"
+            href="https://github.com/Amitkr26"
             target="_blank"
             className="w-full"
           >
