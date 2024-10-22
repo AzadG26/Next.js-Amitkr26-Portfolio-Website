@@ -145,19 +145,19 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://github.com/AzadG26",
+    link: "https://github.com/Amitkr26",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/AzadG26",
+    link: "https://www.linkedin.com/in/Amitkr26",
     icon: "linkedin",
     newTab: true,
   },
   {
     label: "X",
-    link: "https://x.com/AzadG26",
+    link: "https://x.com/Amitkrr26",
     icon: "twitter",
     newTab: true,
   },
