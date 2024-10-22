@@ -15,9 +15,11 @@ const AboutDetails = () => {
             Architect of Digital Solutions
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          Amit Kumar is a passionate web developer and SEO Executive, leveraging a blend of technologies including JavaScript, React.js, Next.js, HTML, and CSS.
-          With a strong foundation in electronics (B.Sc. and currently pursuing M.Sc.), he crafts dynamic, user-friendly websites and optimizes online visibility.
-          Join him on his journey to create innovative digital experiences that connect users across the web.
+          Amit Kumar is a passionate web developer and SEO executive with expertise in JavaScript, React.js, and Next.js.
+          With a background in electronics, he combines technical skills with a keen eye for design to create engaging digital experiences.
+          Currently pursuing a master's degree in electronics, Amit continually explores new technologies and trends in web development.
+          His mission is to craft seamless, user-friendly websites that not only function well but also captivate audiences.
+          Connect with him to discuss collaborations or share ideas!
           </p>
         </ItemLayout>
 
