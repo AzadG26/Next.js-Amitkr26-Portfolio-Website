@@ -18,6 +18,13 @@ Websites:
 
 export const projectsData = [
   {
+    id: 0,
+    name: "Portfolio",
+    description: "Amit Kumar | Portfolio",
+    date: "2024-08-15",
+    demoLink: "https://amitkrr26.netlify.app/",
+  },
+  {
     id: 1,
     name: "Portfolio-1",
     description: "Amit Kumar | Portfolio",
