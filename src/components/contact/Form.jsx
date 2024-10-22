@@ -32,7 +32,7 @@ export default function Form() {
     const toastId = toast.loading("Sending your message, please wait...");
 
     toast.info(
-      "Form submissions are demo-only here. Please checkout the final code repo to enable it. If you want to connect you can reach out to me via codebucks27@gmail.com.",
+      "Form submissions are demo-only here. Please checkout the final code repo to enable it. If you want to connect you can reach out to me via amitkrbsc26@gmail.com.",
       {
         id: toastId,
       }
@@ -148,7 +148,7 @@ export default function Form() {
 
         <motion.input
           variants={item}
-          value="Cast your message!"
+          value="Send your message!"
           className="px-10 py-4 rounded-md shadow-lg bg-background border border-accent/30 border-solid
       hover:shadow-glass-sm backdrop-blur-sm text-foreground focus:outline-none focus:ring-2 focus:ring-accent/50 cursor-pointer capitalize
       "
