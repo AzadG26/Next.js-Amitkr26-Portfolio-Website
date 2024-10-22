@@ -17,7 +17,7 @@ const AboutDetails = () => {
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
           Amit Kumar is a passionate web developer and SEO executive with expertise in JavaScript, React.js, and Next.js.
           With a background in electronics, he combines technical skills with a keen eye for design to create engaging digital experiences.
-          Currently pursuing a master's degree in electronics, Amit continually explores new technologies and trends in web development.
+          Currently pursuing a masters degree in electronics, Amit continually explores new technologies and trends in web development.
           His mission is to craft seamless, user-friendly websites that not only function well but also captivate audiences.
           Connect with him to discuss collaborations or share ideas!
           </p>
